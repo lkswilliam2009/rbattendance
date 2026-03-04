@@ -1,7 +1,7 @@
 # Backend RB Attendance V.1.0.1
 
 ## ✨ Main Features
-- JWT Short Auth with Refresh Token
+- JWT Short Token Auth with Refresh Token
 - Swagger Documentation
 - Hot Reload using nodemon for development
 - Radius location pointing
