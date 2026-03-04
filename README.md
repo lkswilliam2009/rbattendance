@@ -33,6 +33,7 @@ yarn dev
 npm run build
 ```
 ### 📁 Struktur Folder
+```bash
 rbattendance/
 ├── src/
 │   ├── config/
@@ -45,6 +46,8 @@ rbattendance/
 ├── package.json
 ├── README.md
 └── .gitignore
+```
+
 🔧 Konfigurasi
 Edit file .env untuk mengatur:
 ```bash
