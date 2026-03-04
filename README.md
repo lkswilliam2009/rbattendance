@@ -15,23 +15,25 @@ NodeJS, ExpressJS, PostgreSQL
 ```bash
 git clone https://github.com/lkswilliam/rbattendance.git
 cd rbattendance
-2. Install Dependencies
-bash
+```
+### 2. Install Dependencies
+```bash
 npm install
 # atau
 yarn install
-3. Jalankan Development Server
-bash
+```
+### 3. Jalankan Development Server
+```bash
 npm run dev
 # atau
 yarn dev
-4. Build untuk Production
-bash
+```
+### 4. Build untuk Production
+```bash
 npm run build
-📁 Struktur Folder
-text
-my-project/
-├── public/
+```
+### 📁 Struktur Folder
+rbattendance/
 ├── src/
 │   ├── config/
 │   ├── docs/
@@ -45,16 +47,17 @@ my-project/
 └── .gitignore
 🔧 Konfigurasi
 Edit file .env untuk mengatur:
-
+```bash
 API endpoints
 
 Database connection
 
 Environment variables
+```
 
-🤝 Cara Berkontribusi
+### 🤝 Cara Berkontribusi
+```bash
 Fork repository ini
-
 Buat branch git checkout -b feature/amazing-feature
 
 Commit perubahan git commit -m 'Add amazing feature'
@@ -62,11 +65,12 @@ Commit perubahan git commit -m 'Add amazing feature'
 Push ke branch git push origin feature/amazing-feature
 
 Buat Pull Request
+```
 
-📄 License
+### 📄 License
 Project ini dilisensikan dengan MIT License - lihat file LICENSE untuk detail.
 
-🙋‍♂️ Kontak
+### 🙋‍♂️ Kontak
 Author: Lokius William Tanikwele
 
 Email: lokius.william.tanikwele@rusiantobersaudara.co.id
